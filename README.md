@@ -7,7 +7,7 @@ AtCoderの問題「[アルゴリズムと数学　演習問題集](https://atcod
 
 # Install
 
-[Chrome Web Storeからインストール](https://chrome.google.com/webstore/detail/atcoder-math-and-algorith/jpdmohcbpngfckbndmibeokobcfilend)してください：
+[Chrome Web Storeからインストール](https://chrome.google.com/webstore/detail/atcoder-math-and-algorith/jpdmohcbpngfckbndmibeokobcfilend)してください。
 
 # For Devs
 
